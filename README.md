@@ -1,2 +1,6 @@
 # Javascript-studies
-For study purposes
+Hiring Coders#3
+
+Gama Academy Javascript Course.
+
+For study purposes.
